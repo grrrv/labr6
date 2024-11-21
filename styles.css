@@ -1,0 +1,14 @@
+#card1 {
+    padding: 20px;
+    max-width: 25%;
+}
+h3 {
+    padding: 20px;
+}
+.films {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
